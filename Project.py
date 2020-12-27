@@ -18,7 +18,7 @@ CoursesList=["python","java","c++","machine learning","c#"]
 Studentcourses=[]
 print("Lütfen Listeden en az 3, en fazla 5 ders seçiniz")
 print(CoursesList)
-#t
+#tt
 i=0
 while i<=5 :
     choosencourses=input("please choose the course")
